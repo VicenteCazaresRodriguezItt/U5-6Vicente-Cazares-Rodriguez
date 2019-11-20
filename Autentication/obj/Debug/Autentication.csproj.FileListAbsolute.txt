@@ -1,0 +1,6 @@
+C:\Users\vicen\source\repos\Autentication\bin\Debug\Autentication.exe.config
+C:\Users\vicen\source\repos\Autentication\bin\Debug\Autentication.exe
+C:\Users\vicen\source\repos\Autentication\bin\Debug\Autentication.pdb
+C:\Users\vicen\source\repos\Autentication\obj\Debug\Autentication.csprojAssemblyReference.cache
+C:\Users\vicen\source\repos\Autentication\obj\Debug\Autentication.exe
+C:\Users\vicen\source\repos\Autentication\obj\Debug\Autentication.pdb
